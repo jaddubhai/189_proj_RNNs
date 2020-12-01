@@ -1,4 +1,4 @@
-## COMPSCI 189 Project T - Introduction to RNNs (Team Chairun) 
+# COMPSCI 189 Project T - Introduction to RNNs (Team Chairun) 
 This repository contains materials for COMPSCI 189 Project T, Week 10. We aim to provide students with a thorough introduction to RNNs, and specifically, GRUs and how they are being applied to modern portfolio theory
 
 # Learning Goals: 
