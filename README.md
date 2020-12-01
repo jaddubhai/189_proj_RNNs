@@ -1,2 +1,3 @@
-# stock_embeddings
-GRU based stock embeddings model for portfolio optimization
+## COMPSCI 189 Project T - Introduction to RNNs (Team Chairun) 
+
+
