@@ -11,5 +11,5 @@ This repository contains materials for COMPSCI 189 Project T, Week 10. We aim to
 Our repo contains three main sections: teaching, assignments, and quiz.
 
 - Teaching: contains both a note and slideshow which can be used as teaching materials for this project.
-- Assignments: contains the project and solution notebook.
+- Assignments: contains the project and solution notebook, and all the data required to run the code. Also contains a document that elaborates on the learning outcomes. 
 - Quiz: contains a brief quiz which can be used to test a student's understanding of the topics covered.
