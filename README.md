@@ -1,5 +1,7 @@
+# NOTE: We had to change our repo due to LFS issues. NEW LINK: https://github.com/chirag-sharma-00/Intro_to_RNNs
 # COMPSCI 189 Project T - Introduction to RNNs (Team Chairun) 
 This repository contains materials for COMPSCI 189 Project T, Week 10. We aim to provide students with a thorough introduction to RNNs, and specifically, GRUs and how they are being applied to modern portfolio theory
+
 
 # Learning Goals: 
 1) **Goal:** Gain an understanding of how the RNN improves upon feed forward networks, the vanishing gradient problem and how the GRU solves this issue. <br>
